@@ -6,7 +6,7 @@
 
 *Enterprise-class gaming experience with glassmorphism UI and neon accents*
 
-![Version](https://img.shields.io/badge/version-2.0.0-00d9ff)
+![Version](https://img.shields.io/badge/version-3.0.0-00d9ff)
 ![Python](https://img.shields.io/badge/python-3.8+-00d9ff)
 ![License](https://img.shields.io/badge/license-Proprietary-00d9ff)
 
@@ -286,7 +286,7 @@ def custom_action(self):
 
 ## 📜 License
 
-**© 2025 Macan Angkasa. All rights reserved.**
+**© 2026 Macan Angkasa. All rights reserved.**
 
 This is proprietary software developed by Macan Angkasa. Unauthorized copying, modification, distribution, or use of this software is strictly prohibited.
 
